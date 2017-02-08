@@ -2,7 +2,7 @@
 layout: post
 title: Online Lessons with YouTube
 subtitle: My first Post by Chris Cook
-bigimg: /home/c/cookc/fs102/cookc3174.github.io/img
+bigimg: /img/article1.jpg
 ---
 
 
@@ -11,17 +11,3 @@ bigimg: /home/c/cookc/fs102/cookc3174.github.io/img
 
 
 <a title="Online Shopping with Touchscreen Ultrabook" href="https://flickr.com/photos/intelfreepress/6983545613">Online Shopping with Touchscreen Ultrabook</a> flickr photo by <a href="https://flickr.com/people/intelfreepress">IntelFreePress</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a> </small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
