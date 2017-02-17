@@ -2,7 +2,7 @@
 layout: post
 title: Google Hurting Problem Solving Skills
 subtitle: by Chris Cook
-bigimg: /img/image5.jpg
+bigimg: /img/risk.jpg
 ---
 TL;DR:Google is hurting students because it making them become less independent on their studies.
 
