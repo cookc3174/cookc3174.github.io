@@ -2,7 +2,7 @@
 layout: post
 title: Google Hurting Problem Solving Skills
 subtitle: by Chris Cook
-bigimg: /img/computer1.jpg
+bigimg: /img/computer2.jpg
 ---
 TL;DR:Google is hurting students because it making them become less independent on their studies.
 
@@ -10,4 +10,4 @@ When people have problems they usually go look for answers on the Internet. They
 
 
 
-<a title="Apple store diagnostic test confirms it, I need a new hard drive.  Thank goodness for ProCare. #bummer #fail #applestore #computerproblems #macintosh" href="https://flickr.com/photos/swerz/8476442134">Apple store diagnostic test confirms it, I need a new hard drive.  Thank goodness for ProCare. #bummer #fail #applestore #computerproblems #macintosh</a> flickr photo by <a href="https://flickr.com/people/swerz">Swerz</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a> </small>
+<a title="My setup at work" href="https://flickr.com/photos/alrod/1401249466">My setup at work</a> flickr photo by <a href="https://flickr.com/people/alrod">razumny</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons (BY-NC-SA) license</a> </small>
