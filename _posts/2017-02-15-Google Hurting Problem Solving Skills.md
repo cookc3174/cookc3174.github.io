@@ -2,7 +2,7 @@
 layout: post
 title: Google Hurting Problem Solving Skills
 subtitle: by Chris Cook
-bigimg: /img/computer2.jpg
+bigimg: /img/article2a.jpg
 ---
 TL;DR:Google is hurting students because it making them become less independent on their studies.
 
@@ -17,4 +17,4 @@ We have all had stress when it comes to rigorous assignments and exams, but wher
 We have all heard of Google and what it has to offer. We know that it can be used to find almost anything you are looking for. However, we forget to take into consideration what consequences we might have to face by using it. At first, you might not be able to tell you are being affected by using Google but overtime if you really open up you can see that it plays a major role in your daily life. So, it is important that you only use Google when you really need. Sometimes it is better to find the answer yourself than getting it from the internet, because this way you actually know what is going on. Google might solve most of our problems but in the long run it creates new ones.
 
 
-<a title="My setup at work" href="https://flickr.com/photos/alrod/1401249466">My setup at work</a> flickr photo by <a href="https://flickr.com/people/alrod">razumny</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons (BY-NC-SA) license</a> </small>
+<a title="Solving problems" href="https://flickr.com/photos/zaveqna/3677539875">Solving problems</a> flickr photo by <a href="https://flickr.com/people/zaveqna">zaveqna</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons (BY-NC-SA) license</a> </small>
