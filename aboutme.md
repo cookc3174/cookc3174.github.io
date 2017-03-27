@@ -3,9 +3,6 @@ layout: page
 title: About me
 subtitle: A page about me
 ---
-
-## about-me
-
 Christopher Cook
 
 TL;DR: My name is Chris Cook and I am going to major in computer science at Allegheny College. Ever since I first heard about software and programming, I have always wanted to make a career out of it.
