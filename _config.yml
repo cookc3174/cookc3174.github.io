@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Chris Cook
-  email: "cookc@allegheny.edu"
+  email: "cookc@allegheny"
   facebook: yourname  # eg. daattali
   github: cookc3174    # eg. daattali
   twitter: chriscook81798   # eg. daattali
