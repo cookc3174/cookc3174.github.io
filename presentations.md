@@ -9,4 +9,4 @@ title: Presentations
 
 ## Presentation 2
 
-# [Problems With Piracy](https://rawgit.com/cookc3174/fs102Spring2017-presentation3-cookc3174/master/seke2015_panel.html)
+[Problems With Piracy](https://rawgit.com/cookc3174/fs102Spring2017-presentation3-cookc3174/master/seke2015_panel.html)
