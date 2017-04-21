@@ -5,9 +5,7 @@ subtitle: Is technology the key?
 bigimg: /img/5902067107_2b1dbe1ec0_o.png
 ---
 
-
-
-
+TL;DR: Plagiarism has increased dramatically over the last few years because of technology. People are finding many ways around laws and copy right strikes, however publishers and owners of work that is being stolen are finding solutions to this.
 
 
 
