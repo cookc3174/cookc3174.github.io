@@ -2,5 +2,5 @@
 layout: post
 title: The Solution to Plagiarism
 subtitle: Is technology the key?
-bigimg: /img/2698086997_7a8fa24266_o.jpg
+bigimg: /img/5902067107_2b1dbe1ec0_o.jpg
 ---
