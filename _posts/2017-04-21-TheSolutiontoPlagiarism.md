@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning instead of Plagiarizing
+title: The Solution to Plagiarism
 subtitle: Is Technology the key?
 bigimg: /img/5902067107_2b1dbe1ec0_o.png
 ---
