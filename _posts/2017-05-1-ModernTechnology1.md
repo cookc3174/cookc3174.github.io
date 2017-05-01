@@ -2,7 +2,7 @@
 layout: post
 title: Modern Technology
 subtitle: What Happened Today?
-bigimg: /img/5902067107_2b1dbe1ec0_o.png
+bigimg: /img/5041329333_bed88bde7a_o.jpg
 ---
 
 
