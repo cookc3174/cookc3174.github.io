@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modern Technology
-subtitle: What Happened Today?
+subtitle: Can We Appreciate?
 bigimg: /img/5041329333_bed88bde7a_o.jpg
 ---
 
